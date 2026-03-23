@@ -23,7 +23,6 @@
 
 Desarrollador Web Fullstack especializado en el ecosistema **PHP / Laravel** con sólida experiencia en el ciclo de vida completo del desarrollo: desde el modelado de bases de datos relacionales hasta la integración de APIs REST y el despliegue de componentes frontend dinámicos.
 
-- 🔭 Actualmente en prácticas en **Rueda Sánchez** (Marzo – Junio 2025)
 - 🌱 Explorando **TypeScript** y arquitecturas modernas con **Angular**
 - ⚡ Me apasiona resolver problemas técnicos complejos y adaptarme rápido a nuevos entornos
 - 🎓 Técnico Superior en **DAW** – CIPFP Alan Turing (2023–2025)
