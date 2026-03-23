@@ -14,7 +14,7 @@
 </div>
 <br/>
 
-[![Descargar CV](https://img.shields.io/badge/⬇️_Descargar_CV-0d1117?style=for-the-badge&logo=docusign&logoColor=3B8BD4)](./FRANCISCOJIMÉNEZ_LÓPEZ_2026-CV.pdf)
+[![Descargar CV](https://img.shields.io/badge/⬇️_Descargar_CV-0d1117?style=for-the-badge&logo=docusign&logoColor=3B8BD4)](./FRANCISCO_JL_CV_2026.pdf)
 
 </div>
 ---
